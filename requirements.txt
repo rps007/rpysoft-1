@@ -1,4 +1,1 @@
 voila
-ipywidgets
-pandas  # Example if needed
-matplotlib
